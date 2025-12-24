@@ -4,10 +4,7 @@
 
 <h3 align="center"><code style="color:#00FF00">Developer | Learner | Builder</code></h3>
 
-<p align="center" style="color:#00FF00">
-Exploring programming, automation, and building personal projects.<br/>
-Matrix-style README with safe static layout.
-</p>
+
 
 ---
 
